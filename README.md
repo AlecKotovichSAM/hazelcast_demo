@@ -1,4 +1,4 @@
-# Hazelcast demo
+# Hazelcast demo (JUST AN EXAMPLE!)
 
 ### Running locally
 
